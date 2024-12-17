@@ -10,7 +10,7 @@ Para visualizar os projetos:
 
 git clone <a href="https://rangelzin.github.io" target="_blank"> Repositório de Projetos</a>
 
-ou vai até <a href="github.com/Rangelzin/Estudos-de-HTML-CSS"> Repositório de Estudos</a>
+ou vai até <a href="https://github.com/Rangelzin/Estudos-de-HTML-CSS?tab=readme-ov-file"> Repositório de Estudos</a>
 
 2. Navegue até o diretório do projeto que deseja visualizar.
 
@@ -23,3 +23,4 @@ Sinta-se à vontade para contribuir com novos projetos ou melhorias. Abra um pul
 ## Licença
 
 Este repositório é disponibilizado sob a [Licença MIT](LICENSE).
+
