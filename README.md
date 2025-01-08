@@ -8,9 +8,9 @@ Para visualizar os projetos:
 
 1. Clone o repositório para sua máquina local usando o comando:
 
-git clone <a href="https://rangelzin.github.io" target="_blank"> Repositório de Projetos</a>
+git clone <a href="https://rangelzin.github.io/myPortfolio/" target="_blank"> Repositório de Projetos</a>
 
-ou vai até <a href="https://github.com/Rangelzin/Estudos-de-HTML-CSS?tab=readme-ov-file"> Repositório de Estudos</a>
+ou vai até <a href="https://rangelzin.github.io/html-css-studies/"> Repositório de Estudos</a>
 
 2. Navegue até o diretório do projeto que deseja visualizar.
 
