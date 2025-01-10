@@ -16,6 +16,7 @@ Grandes Telas: acima de 1200px
     }
     #login{
         width: 80vw;
+        height: 320px;
     }
     
     #login > #imagem{
@@ -37,6 +38,7 @@ Grandes Telas: acima de 1200px
 
     #login{
         width: 950px;
+        height: 370px;
     }
     
     #login > #imagem{
