@@ -6,14 +6,14 @@ Este repositório contém diversos projetos de estudo em HTML para iniciantes.
 
 Para visualizar os projetos:
 
-1. Clone o repositório para sua máquina local usando o comando: 
+1. Clone o repositório de projeto em html para sua máquina local usando o comando: 
   ```bash
-  git clone Repositório de Projetos HTML: https://rangelzin.github.io/PortfolioHTML-CSS/.git
+  git clone https://rangelzin.github.io/PortfolioHTML-CSS/.git
   ```
 2. ou vai até o Repositório de Estudos
- ```bash
-  git clone Repositório de Projetos HTML: https://rangelzin.github.io/html-css-studies/.git
- ```
+   ```bash
+    git clone https://rangelzin.github.io/html-css-studies/.git
+   ```
 
 Navegue até o diretório do projeto que deseja visualizar.
 
