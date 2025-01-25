@@ -14,6 +14,15 @@ Para visualizar os projetos:
     ```bash
     git clone https://rangelzin.github.io/html-css-studies/.git
     ```
+2. Acesse os repositório:
+   ```bash
+    cd html-css-studies
+    ```
+   ou
+   
+   ```bash
+    cd PortfolioHTML-CSS
+    ```
 
 Navegue até o diretório do projeto que deseja visualizar.
 
